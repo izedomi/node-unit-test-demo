@@ -1,0 +1,22 @@
+{
+  "name": "node-unit-test-demo",
+  "version": "1.0.0",
+  "description": "Node js unit test practice using Jest",
+  "main": "lib.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest -watchAll"
+  },
+  "keywords": [
+    "Node",
+    "Jest"
+  ],
+  "author": "Izedomi Emmanuel",
+  "license": "ISC"
+}
